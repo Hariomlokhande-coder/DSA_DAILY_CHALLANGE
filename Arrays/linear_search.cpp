@@ -1,3 +1,11 @@
+// Linear Search starts from the first element
+// and checks each element one by one.
+// If the target element is found, we return its index.
+// If we reach the end of the array without finding it,
+// then the element is not present in the array.
+
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 #include <iostream>
 using namespace std;
 
