@@ -8,6 +8,7 @@
 //
 // Time Complexity: O(n + m)
 // Space Complexity: O(n + m)class Solution {
+class solution{
 public:
     vector<int> unionArray(vector<int>& nums1, vector<int>& nums2) {
         int n = nums1.size();
